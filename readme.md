@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manuel 👋</h1>
 <h3 align="center">PoC R&D Dev & Epitech student</h3>
-<p align="center">🌱&ensp;I’m currently learning <b>C++, PyTorch</b>&ensp;🌱</p>
+<p align="center">🌱&ensp;I’m currently learning <b>C++, JS</b>&ensp;🌱</p>
 <p align="center">🎵&ensp;I love to play Music&ensp;🎵</p>
 <p align="center">🔭&ensp;I’m currently working on <a href="https://github.com/PoCInnovation/iRL-Board">iRL Board</a>&ensp;🔭</p>
 <h3 align="center">Connect with me:</h3>
