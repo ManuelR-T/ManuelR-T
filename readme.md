@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;Epitech+Student;C%2B%2B+Enthusiast;Hardware+Explorer)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ManuelR-T?logo=github&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/ManuelR-T)
-[![Profile Views](https://komarev.com/ghpvc/?username=ManuelR-T&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ManuelR-T)
-
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -65,4 +62,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelR-T&bg_color=0d1117&color=1f6feb&line=1f6feb&point=1f6feb&area=true&hide_border=true" width="100%"/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=ManuelR-T&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ManuelR-T)
 </div>
+
