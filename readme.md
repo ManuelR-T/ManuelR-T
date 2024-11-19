@@ -40,14 +40,3 @@
     </a>
   </p>
 </div>
-
-<div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManuelR-T&theme=dark&hide_border=true&border_radius=10&background=0D1117" alt="manuelr-t"/>
-</p>
-<p align="center">
-  <a href="https://wakatime.com/badge/user/215001ee-2512-4a10-87be-c166c7548710.svg?style=for-the-badge">
-    <img src="https://wakatime.com/badge/user/215001ee-2512-4a10-87be-c166c7548710.svg?style=for-the-badge" alt="Total time coded since Jan 9 2023" />
-  </a>
-</p>
-</div>
