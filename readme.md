@@ -40,7 +40,7 @@
 <details open>
 <summary><b>Frameworks & Tools</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=next,svelte,docker,mongodb,postgresql,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=next,svelte,docker,prisma,postgresql&theme=dark" />
 </details>
 
 ## 🤝 Connect with me
