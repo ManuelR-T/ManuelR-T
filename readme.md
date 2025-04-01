@@ -34,13 +34,13 @@
 <details open>
 <summary><b>Core Languages</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,typescript,python&theme=dark" />
 </details>
 
 <details open>
 <summary><b>Frameworks & Tools</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=react,svelte,docker,mongodb,postgresql,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=next,svelte,docker,mongodb,postgresql,arduino&theme=dark" />
 </details>
 
 ## 🤝 Connect with me
