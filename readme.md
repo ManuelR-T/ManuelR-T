@@ -60,8 +60,6 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelR-T&bg_color=0d1117&color=1f6feb&line=1f6feb&point=1f6feb&area=true&hide_border=true" width="100%"/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=ManuelR-T&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ManuelR-T)
 </div>
 
