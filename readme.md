@@ -17,7 +17,7 @@
 
 ## 🚀 Quick Facts
 
-🎓 Third-year student at **[Epitech](https://www.epitech.eu/)**
+🎓 4th-year student at **[Epitech](https://www.epitech.eu/)**
 
 🌱 Learning **[Carbon](https://github.com/carbon-language/carbon-lang)**
 
