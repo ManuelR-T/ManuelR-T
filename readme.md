@@ -14,17 +14,32 @@
 
 🔎 Open to **Software Engineering** roles from Sept. 2025
 
-<br>
-
-## 🛠 What I'm Building
+## 🛠 Featured Projects
 
 <a href="https://yarnify3d.com">
 <img src="https://img.shields.io/badge/Yarnify3d-SaaS%20%7C%20DSL%20Compiler%20%7C%203D%20Viz-blueviolet?style=for-the-badge&logo=three.js&logoColor=white" />
 </a>
 
-> A SaaS platform for crocheters — featuring a **custom compiler** that translates a pattern DSL into Three.js 3D render calls. Real-time stitch-level visualization with yarn textures.
->
-> `Next.js` `NestJS` `TypeScript` `Three.js` `PostgreSQL` `Docker` `AWS` `Stripe`
+> SaaS platform with a **custom compiler** (DSL → Three.js) for real-time 3D crochet visualization.
+
+<a href="https://github.com/ManuelR-T/R-Type">
+<img src="https://img.shields.io/badge/R--Type-Multiplayer%20Game%20Engine%20%7C%20ECS-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+
+> Cross-platform **multiplayer game engine** built on a custom Entity-Component-System architecture. C++, networking, CI/CD.
+
+<a href="https://github.com/ManuelR-T/LavaTensor">
+<img src="https://img.shields.io/badge/LavaTensor-Neural%20Network%20from%20Scratch-orange?style=for-the-badge&logo=pytorch&logoColor=white" />
+</a>
+
+> **Tensor library + Autograd engine** built from scratch. Trained a chess position classifier to ~90% accuracy.
+
+<a href="https://github.com/ManuelR-T/Raytracer">
+<img src="https://img.shields.io/badge/Raytracer-3D%20Rendering%20%7C%20C++-green?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+
+> **Ray tracing engine** in C++ with materials, lighting, and configurable scenes.
+
 ## 💻 Tech Stack
 
 <details open>
