@@ -51,13 +51,13 @@
 <details open>
 <summary><b>Backend & Infrastructure</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=nest,next,docker,aws,kubernetes,terraform,nginx,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nest,docker,aws,kubernetes,terraform,nginx,postgres&theme=dark" />
 </details>
 
 <details open>
 <summary><b>Frontend & 3D</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=react,svelte,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,svelte,threejs&theme=dark" />
 </details>
 
 <details open>
