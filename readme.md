@@ -6,7 +6,7 @@
 
 <br>
 
-🚀 **CTO & Co-founder** at **[Yarnify3d](https://yarnify3d.com)** — SaaS + DSL compiler → Three.js 3D
+🚀 **CTO & Co-founder** at **[Yarnify3D](https://yarnify3d.com)** — SaaS + DSL compiler → Three.js 3D
 
 🎓 4th-year student at **[Epitech](https://www.epitech.eu/)** — Exchange at **[Chung-Ang University](https://www.cau.ac.kr/)** (Seoul)
 
