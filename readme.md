@@ -51,7 +51,7 @@
 <details open>
 <summary><b>Backend & Infrastructure</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=nest,docker,aws,kubernetes,terraform,nginx,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nest,docker,aws,gcp,kubernetes,terraform,nginx,postgres&theme=dark" />
 </details>
 
 <details open>
