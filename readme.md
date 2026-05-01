@@ -65,13 +65,6 @@ Backends, tooling, infra, compilers, rendering, and systems-heavy applications.
 <img src="https://skillicons.dev/icons?i=svelte,react,next,threejs&theme=dark" />
 </details>
 
-## Current Focus
-
-- Backend and systems design
-- DevTools and infra-adjacent product work
-- Compiler and rendering-heavy software
-- Preparing for strong Software Engineering roles
-
 ## Connect
 
 <a href="https://manueltome.dev">
